@@ -1,6 +1,6 @@
 {
-  "min_version_code": 16,
+  "min_version_code": 17,
   "kill": false,
-  "message": "A new version of NourTube is available. Please update to keep watching.",
+  "message": "نور تيوب — كل الفيديو في تطبيق واحد.\nالمميزات: يوتيوب (بحث، تشغيل، تحميل، مقاطع، اشتراكات وصفحة رئيسية مخصصة)، تيك توك (بحث + تحميل بدون علامة مائية + لصق أي رابط)، البث المباشر (اشتراك IPTV) + نور تيفي (قنوات مجانية)، متصفح داخلي، تشغيل في الخلفية/صوت فقط، تسجيل الشاشة.\nالجديد في 0.17.0:\n• مظهر فاتح/داكن/حسب النظام\n• اللغة العربية والإنجليزية\n• تشغيل/إيقاف فيديو تيك توك\n• الصفحة الرئيسية تتغيّر مع كل تحديث وتعرض فيديوهات أحدث\n• إصلاح بحث تيك توك + روابط فيسبوك العامة\n• التحديث التلقائي داخل التطبيق\nاضغط \"تنزيل وتثبيت\".\n\nNourTube — all your video in one app.\nFeatures: YouTube (search, play, download, clips, subscriptions & a personalized Home), TikTok (search + no-watermark download + paste any link), Live TV (your IPTV) + Nour TV (free channels), in-app browser, background/audio play, screen record.\nNew in 0.17.0:\n- Light / Dark / System theme\n- Arabic & English language\n- TikTok video play/pause\n- Home feed changes each refresh & shows newer uploads\n- TikTok search fixed + Facebook public links\n- Automatic in-app updates\nTap \"Download & install\".",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
