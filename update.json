@@ -1,0 +1,6 @@
+{
+  "min_version_code": 18,
+  "kill": false,
+  "message": "🎬 نـورتيوب 0.18.0 — تحديث كبير على نمط يوتيوب\n• مدة الفيديو تظهر الآن على كل الصور المصغّرة\n• قائمة التشغيل تنتقل تلقائيًا للفيديو التالي حتى والتطبيق في الخلفية\n• شريط بحث في كل مكان: القناة وفوق المشغّل\n• شرائط تصفية في الرئيسية: الكل / جديد / مباشر / بودكاست / كرة القدم / ديني / التنزيلات\n• قسم ديني مخصص (قرآن ومحاضرات وخطب) من اشتراكاتك وسجلّك\n• خيار «الذهاب إلى القناة» عند الضغط المطوّل على أي فيديو\n\n🎬 NourTube 0.18.0 — big YouTube-style update\n• Video duration now shown on every thumbnail\n• Queue auto-advances to the next video even in the background\n• Search bar everywhere: channel pages and above the player\n• Home filter chips: All / New / Live / Podcasts / Football / Religious / Downloads\n• Dedicated Religious section (Quran, lectures, khutbahs) from your subs + history\n• \"Go to channel\" from any video's long-press menu",
+  "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
+}
