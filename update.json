@@ -1,6 +1,6 @@
 {
-  "min_version_code": 20,
+  "min_version_code": 21,
   "kill": false,
-  "message": "🔧 نـورتيوب 0.19.1\n• إصلاح: زر «إغلاق» في مشغّل IPTV كان يغلق التطبيق بالكامل — الآن يوقف الفيديو فقط ويعود للصفحة السابقة\n• جديد: شعار «NOUR» متوهّج أعلى شريط التنقّل يعبّر عن هوية التطبيق\n\n🔧 NourTube 0.19.1\n• Fix: the IPTV player's \"Close\" button used to close the whole app — now it just stops the video and returns to the previous page\n• New: a glowing \"NOUR\" brand wordmark across the bottom navigation bar",
+  "message": "💡 نـورتيوب 0.19.2\n• جديد: ستة أنماط للشريط السفلي «NOUR» تختار بينها من الإعدادات ▸ نمط الشريط السفلي — كلها تعبّر عن معنى «نور» وتُظهر حروف N O U R بطريقة مختلفة\n• تحسين الأداء: بدء تشغيل أسرع ورسم أخف للشريط السفلي\n\n💡 NourTube 0.19.2\n• New: six switchable \"NOUR\" bottom-bar styles — pick one in Settings ▸ Bottom bar style. Each expresses نور (light) and shows the N-O-U-R letters differently\n• Performance: faster startup and lighter bottom-bar drawing",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
