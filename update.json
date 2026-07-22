@@ -1,6 +1,6 @@
 {
-  "min_version_code": 21,
+  "min_version_code": 22,
   "kill": false,
-  "message": "💡 نـورتيوب 0.19.2\n• جديد: ستة أنماط للشريط السفلي «NOUR» تختار بينها من الإعدادات ▸ نمط الشريط السفلي — كلها تعبّر عن معنى «نور» وتُظهر حروف N O U R بطريقة مختلفة\n• تحسين الأداء: بدء تشغيل أسرع ورسم أخف للشريط السفلي\n\n💡 NourTube 0.19.2\n• New: six switchable \"NOUR\" bottom-bar styles — pick one in Settings ▸ Bottom bar style. Each expresses نور (light) and shows the N-O-U-R letters differently\n• Performance: faster startup and lighter bottom-bar drawing",
+  "message": "🎛 نـورتيوب 0.19.3 — تحكّم موحّد بالمشغّل والخلفية\n• إيماءات السحب الآن على مشغّل IPTV والبث المباشر والأفلام والمسلسلات: سطوع (يسار) / صوت (يمين) / تقديم أفقي\n• زر رجوع يوتيوب يسأل: تشغيل في الخلفية أم إيقاف؟ (يكمل من نفس الموضع)\n• قفل مشغّل IPTV يمنع اللمس فقط والبث يستمر\n• إطفاء الشاشة أو الخروج يُكمل الصوت في الخلفية مع تحكّم من الإشعار\n• الأفلام/المسلسلات تُكمل من نفس الموضع في الخلفية بدل البدء من الصفر\n• تيك توك/ريلز: سحب أفقي للتقديم (السحب العمودي يبقى للتنقّل)\n\n🎛 NourTube 0.19.3 — unified player + background control\n• Swipe gestures now on IPTV / Live / movies / series: brightness (left) / volume (right) / horizontal seek\n• YouTube Back asks: keep playing in background or stop? (resumes from the same spot)\n• IPTV lock blocks touch only — the stream keeps playing\n• Screen-off / leaving the app keeps audio in the background, controllable from the notification\n• Movies/series continue in the background from the same position (no restart)\n• TikTok/Reels: horizontal swipe seeks (vertical swipe still pages)",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
