@@ -1,6 +1,6 @@
 {
-  "min_version_code": 24,
+  "min_version_code": 25,
   "kill": false,
-  "message": "🌐 المتصفح أُعيد بناؤه بالكامل — تبويبات متعددة، شريط عنوان يقترح أثناء الكتابة، واسحب للأسفل لتحديث الصفحة، وصفحة بداية بشعار نور.\n🔧 إصلاح خطأ \"Failed to fetch video details\" في يوتيوب.\n🔒 قائمة سيرفرات VPN تعمل من جديد.\n📺 شاشة IPTV تعرض عدد الاتصالات المسموحة — سبب التقطيع عند استخدام عدة أشخاص.\n\n🌐 Browser rebuilt: real tabs, a suggesting address bar, pull-to-refresh, and a NOUR new-tab page.\n🔧 Fixed \"Failed to fetch video details\" on YouTube.\n🔒 VPN server list works again.\n📺 IPTV now shows your connection limit — that's why it drops with several viewers.",
+  "message": "🏠 إصلاح صفحة المتصفح الرئيسية (كانت تعرض خطأ بدل صفحة نور)، وموقعك أصبح أول أيقونة.\n🔒 إصلاح إغلاق التطبيق عند اختيار سيرفر VPN، وقائمة الدول تفتح فورًا الآن.\nℹ️ ملاحظة: قائمة VPN المجانية لا تحتوي على مصر أو أي دولة عربية — هذا من المصدر نفسه.\n🐞 جديد: لو أُغلق التطبيق فجأة، ستجد سبب المشكلة مع زر نسخ عند الفتح التالي.\n\n🏠 Browser home page fixed (it was showing an error instead of the NOUR page); your site is now the first tile.\n🔒 Fixed the app closing when you picked a VPN server; the country list now opens instantly.\nℹ️ Note: the free VPN list has no Egypt or Arab country — that's the source, not the app.\n🐞 New: if the app ever closes unexpectedly, the next launch shows why, with a Copy button.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
