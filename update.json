@@ -1,6 +1,6 @@
 {
-  "min_version_code": 27,
+  "min_version_code": 28,
   "kill": false,
-  "message": "⏱️ رسالة \"هناك فيديو قيد التشغيل\" تظهر الآن فقط بعد مرور ٣٠ ثانية من الفيديو — قبل ذلك يفتح الفيديو مباشرة كالمعتاد.\n\n⏱️ The \"something's already playing\" prompt now only appears once you're 30 seconds or more into a video — before that, tapping opens it straight away as before.",
+  "message": "🔍 الـ VPN لا يزال لا يتصل — هذه النسخة تعرض سجل OpenVPN داخل التطبيق.\nافتح شاشة VPN، اختر سيرفر، انتظر ثوانٍ، ثم انزل إلى \"Connection log\" واضغط Copy وأرسل لي ما فيه.\n\n🔍 VPN still not connecting — this build shows OpenVPN's own log in the app.\nOpen the VPN sheet, tap a server, wait a few seconds, then scroll to \"Connection log\" and tap Copy.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
