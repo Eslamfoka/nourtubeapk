@@ -1,6 +1,6 @@
 {
-  "min_version_code": 25,
+  "min_version_code": 26,
   "kill": false,
-  "message": "🏠 إصلاح صفحة المتصفح الرئيسية (كانت تعرض خطأ بدل صفحة نور)، وموقعك أصبح أول أيقونة.\n🔒 إصلاح إغلاق التطبيق عند اختيار سيرفر VPN، وقائمة الدول تفتح فورًا الآن.\nℹ️ ملاحظة: قائمة VPN المجانية لا تحتوي على مصر أو أي دولة عربية — هذا من المصدر نفسه.\n🐞 جديد: لو أُغلق التطبيق فجأة، ستجد سبب المشكلة مع زر نسخ عند الفتح التالي.\n\n🏠 Browser home page fixed (it was showing an error instead of the NOUR page); your site is now the first tile.\n🔒 Fixed the app closing when you picked a VPN server; the country list now opens instantly.\nℹ️ Note: the free VPN list has no Egypt or Arab country — that's the source, not the app.\n🐞 New: if the app ever closes unexpectedly, the next launch shows why, with a Copy button.",
+  "message": "🔒 الـ VPN لم يعد يغلق التطبيق (تقرير العطل الذي أرسلته حدّد السبب بدقة).\n⏯️ الفيديو يكمل من حيث توقفت فعلًا — حتى مع المشغّل المصغّر أو إغلاق الشاشة أو إغلاق التطبيق.\n❓ الضغط على فيديو أثناء تشغيل آخر يسألك: تابع المشاهدة / أضف للقائمة / شغّل الآن.\n🆕 الأحدث أولًا في الرئيسية والاشتراكات وداخل أي قناة، وإشعارات كل ساعة.\n\n🔒 VPN no longer closes the app — your crash report pinpointed it.\n⏯️ Videos resume where you actually stopped, including mini-player and screen-off.\n❓ Tapping a video while one plays now asks: Keep watching / Add to queue / Play now.\n🆕 Newest first on Home, Subscriptions and every channel; notifications hourly.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
