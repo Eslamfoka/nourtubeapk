@@ -1,6 +1,6 @@
 {
-  "min_version_code": 28,
+  "min_version_code": 29,
   "kill": false,
-  "message": "🔍 الـ VPN لا يزال لا يتصل — هذه النسخة تعرض سجل OpenVPN داخل التطبيق.\nافتح شاشة VPN، اختر سيرفر، انتظر ثوانٍ، ثم انزل إلى \"Connection log\" واضغط Copy وأرسل لي ما فيه.\n\n🔍 VPN still not connecting — this build shows OpenVPN's own log in the app.\nOpen the VPN sheet, tap a server, wait a few seconds, then scroll to \"Connection log\" and tap Copy.",
+  "message": "🔒 الـ VPN — تم إصلاح السبب الحقيقي.\nمحرك OpenVPN المدمج كان مبنيًا قبل أندرويد ١٢ وينشئ إشعاره بطريقة يرفضها النظام، فيُغلق التطبيق بمجرد بدء الاتصال. تم تعديل المكتبة نفسها (٧ مواضع، تم التحقق منها في ملف التثبيت).\nإن لم يتصل بعد، افتح \"Connection log\" واضغط Copy وأرسله.\n\n🔒 VPN — the real cause is fixed.\nThe bundled OpenVPN engine predates Android 12 and built its notification in a way Android 12 refuses, so the app died the moment a tunnel started. The library itself is now patched (7 sites, verified in the shipped APK).\nIf it still won't connect, open \"Connection log\", tap Copy and send it.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
