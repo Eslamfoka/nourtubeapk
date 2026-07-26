@@ -1,6 +1,6 @@
 {
-  "min_version_code": 30,
+  "min_version_code": 31,
   "kill": false,
-  "message": "🔒 الـ VPN — تم إصلاح العائق الأخير.\nOpenVPN لم يكن يحاول الاتصال أصلًا: كان يقرأ ملف السيرفر، يجد سطرًا لا يفهمه (data-ciphers)، ويخرج فورًا. تمت إزالة ذلك السطر — ولا يضيع شيء، فالملف يذكر نفس التشفير مرتين.\nجرّب سيرفر اليابان أولًا. إن لم يتصل، انسخ \"Connection log\" وأرسله.\n\n🔒 VPN — the last blocker is fixed.\nOpenVPN was never even trying to connect: it read the server config, hit one line it didn't understand (data-ciphers), and quit. That line is now removed — nothing is lost, the config states the same encryption twice.\nTry a Japan server first. If it still won't connect, copy the \"Connection log\" and send it.",
+  "message": "🔒 الاتصال نجح فعلًا في المرة الأخيرة — وهذا يصلح ما حدث بعده بلحظة.\nبمجرد نجاح الاتصال تعلن خدمة الـ VPN حالتها عبر مكتبة EventBus، ولم تكن موجودة في التطبيق (لم تكن مذكورة ضمن متطلبات المكتبة). تمت إضافتها والتأكد من وجودها في ملف التثبيت.\nجرّب سيرفر اليابان مرة أخرى.\n\n🔒 The tunnel actually connected last time — this fixes what happened an instant later.\nThe moment a connection succeeds, the VPN service announces its state through EventBus, which wasn't in the app at all (the VPN library never declared it). Added, and verified present in the finished APK.\nTry a Japan server again.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
