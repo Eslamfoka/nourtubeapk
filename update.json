@@ -1,6 +1,6 @@
 {
-  "min_version_code": 31,
+  "min_version_code": 32,
   "kill": false,
-  "message": "🔒 الاتصال نجح فعلًا في المرة الأخيرة — وهذا يصلح ما حدث بعده بلحظة.\nبمجرد نجاح الاتصال تعلن خدمة الـ VPN حالتها عبر مكتبة EventBus، ولم تكن موجودة في التطبيق (لم تكن مذكورة ضمن متطلبات المكتبة). تمت إضافتها والتأكد من وجودها في ملف التثبيت.\nجرّب سيرفر اليابان مرة أخرى.\n\n🔒 The tunnel actually connected last time — this fixes what happened an instant later.\nThe moment a connection succeeds, the VPN service announces its state through EventBus, which wasn't in the app at all (the VPN library never declared it). Added, and verified present in the finished APK.\nTry a Japan server again.",
+  "message": "🟢 جديد: حافظ حالات واتساب — في قسم TikTok ومدير التنزيلات.\nيحفظ حالات واتساب وواتساب بزنس التي شاهدتها، والصور والفيديوهات من المحادثات، إلى المعرض.\nأول مرة سيطلب أندرويد اختيار المجلد — سيفتح على المكان الصحيح، اضغط \"استخدام هذا المجلد\".\n\n📤 جديد: الاشتراكات ▸ Export — يصدّر قائمة قنواتك إلى ملف.\nأرسل لي هذا الملف لتأتي النسخة القادمة وقنواتك مشترك بها مسبقًا للمستخدمين الجدد.\n\n🟢 New: WhatsApp saver — in the TikTok tab and the Download Manager.\nSaves WhatsApp / WhatsApp Business statuses you've viewed and chat photos/videos to your gallery.\nFirst time, Android asks you to pick the folder — it opens at the right place, tap \"Use this folder\".\n\n📤 New: Subscriptions ▸ Export — writes your channel list to a shareable file.\nSend me that file and the next build can ship with your channels for new users.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
