@@ -1,6 +1,6 @@
 {
-  "min_version_code": 34,
+  "min_version_code": 35,
   "kill": false,
-  "message": "📱 يمكن الآن تثبيت النسختين معًا — أصبحتا تطبيقين منفصلين:\n«NourTube» نسختك (تُحدَّث تلقائيًا)، و«NourTube Shared» التي تعطيها لغيرك (تثبيت جديد يشترك في قنواتك الـ٦١ من أول تشغيل).\nملاحظة: نسخة Shared لا تُحدَّث تلقائيًا — اطلب مني نسخة جديدة وثبّتها يدويًا.\n\n📱 Both versions can now be installed at once — they're separate apps:\n\"NourTube\" (yours, auto-updates) and \"NourTube Shared\" (to give away; a fresh install gets your 61 channels).\nNote: the Shared build does not auto-update — ask me for a new one and install it by hand.",
+  "message": "📢 جديد: تنبيهات البث المباشر — حلقات جديدة من مسلسلاتك، أفلام جديدة، ومباريات كرة قدم قبل البداية بخمس دقائق على قنواتك.\nالضغط على التنبيه يفتح المسلسل أو الفيلم أو القناة مباشرة. مفتاح الإيقاف في الإعدادات ▸ الإشعارات.\n\n🔧 إصلاح: تعارض تثبيت النسختين معًا (اسم داخلي في مكتبة OpenVPN كان مشتركًا).\nالآن يمكن تثبيت NourTube و NourTube Shared جنبًا إلى جنب.\n\n📢 New: Live TV notifications — new episodes of series you watch, new movies, and football matches ~5 minutes before kick-off on your channels.\nTapping one opens that series/movie/channel. Switch in Settings ▸ Notifications.\n\n🔧 Fixed: the two builds couldn't be installed together (a shared internal name in the OpenVPN library). NourTube and NourTube Shared now install side by side.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
