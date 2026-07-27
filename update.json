@@ -1,6 +1,6 @@
 {
-  "min_version_code": 33,
+  "min_version_code": 34,
   "kill": false,
-  "message": "🧹 إصلاح: \"Clear browsing data\" صار يمسح كل شيء — السجل والأيقونات والكوكيز والذاكرة.\nكان المسح مقسومًا على مكانين، فيبقى الموقع في الصفحة الرئيسية. والضغط المطوّل على أيقونة كان يثبّتها بصمت فتنجو من كل مسح؛ الآن يفتح قائمة: تثبيت / إزالة.\n\n📦 هذا الإصدار فيه نسختان: نسختك (تلقائية)، ونسخة \"Shared\" تعطيها لغيرك — التثبيت الجديد يشترك في قنواتك الـ٦١ من أول تشغيل.\n\n🧹 Fixed: \"Clear browsing data\" now clears everything — history, home tiles, cookies, cache.\nClearing was split across two places, so a site stayed on the home page. Long-pressing a tile also pinned it silently, and pinned tiles survived every clear; it now opens a menu: Pin / Remove.\n\n📦 This release has two APKs: yours (auto-updates), and a \"Shared\" one to hand to someone else — a fresh install gets your 61 channels on first launch.",
+  "message": "📱 يمكن الآن تثبيت النسختين معًا — أصبحتا تطبيقين منفصلين:\n«NourTube» نسختك (تُحدَّث تلقائيًا)، و«NourTube Shared» التي تعطيها لغيرك (تثبيت جديد يشترك في قنواتك الـ٦١ من أول تشغيل).\nملاحظة: نسخة Shared لا تُحدَّث تلقائيًا — اطلب مني نسخة جديدة وثبّتها يدويًا.\n\n📱 Both versions can now be installed at once — they're separate apps:\n\"NourTube\" (yours, auto-updates) and \"NourTube Shared\" (to give away; a fresh install gets your 61 channels).\nNote: the Shared build does not auto-update — ask me for a new one and install it by hand.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
