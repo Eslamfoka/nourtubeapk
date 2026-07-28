@@ -1,6 +1,6 @@
 {
-  "min_version_code": 38,
+  "min_version_code": 39,
   "kill": false,
-  "message": "🔄 نسخة Shared أصبحت تُحدَّث من داخل التطبيق مثل نسختك تمامًا — لم تعد تحتاج تثبيتًا يدويًا.\n\n🔄 The Shared build now updates itself from inside the app, just like yours — no more manual installs.",
+  "message": "📊 جديد: لوحة تحكم لمتابعة نسخة Shared في نسختك — الإعدادات ← فتح لوحة التحكم.\nعدد المستخدمين والنشطين، أسماؤهم، والقنوات الأكثر شعبية، مع إشعارات عند دخول مستخدم جديد أو رواج قناة.\n\n📊 New: a dashboard over the Shared app in your build — Settings → Open shared-app dashboard.\nUsers, active count, names, top channels, with notifications on new users and trending channels.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
