@@ -1,6 +1,6 @@
 {
-  "min_version_code": 38,
+  "min_version_code": 39,
   "kill": false,
-  "message": "🔄 من الآن تُحدَّث هذه النسخة من داخل التطبيق تلقائيًا — لا حاجة للتثبيت اليدوي بعد اليوم.\n\n🔄 From now on this build updates itself from inside the app — no more manual installs.",
+  "message": "🔄 تحديث — تحسينات في الخلفية.\n\n🔄 Update — background improvements.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
