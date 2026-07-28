@@ -1,6 +1,6 @@
 {
-  "min_version_code": 40,
+  "min_version_code": 41,
   "kill": false,
-  "message": "🔐 لوحة التحكم أصبحت مقفلة على حسابك — نسختك فقط تفتحها.\n\n🔐 Your dashboard is now locked to your account — only your build can open it.",
+  "message": "🎉 نسخة جديدة: شاشة ترحيب، المتصفّح يفتح على موقعك، اللغة حسب الهاتف، وحافظ حالات واتساب باختيار تلقائي للمجلد.\n\n🎉 New: welcome tour, browser opens your site, language follows the phone, and the WhatsApp saver now finds the folder automatically.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
