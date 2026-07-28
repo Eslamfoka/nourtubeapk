@@ -1,6 +1,6 @@
 {
-  "min_version_code": 39,
+  "min_version_code": 40,
   "kill": false,
-  "message": "🔄 تحديث — تحسينات في الخلفية.\n\n🔄 Update — background improvements.",
+  "message": "🔄 تحديث في الخلفية.\n\n🔄 Background update.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
