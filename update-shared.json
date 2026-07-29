@@ -1,6 +1,6 @@
 {
-  "min_version_code": 42,
+  "min_version_code": 43,
   "kill": false,
-  "message": "🛡️ مراجعة أمان قبل الإطلاق — تشديد الحماية دون تغييرات ظاهرة.\n\n🛡️ Security pass before launch — hardening, no visible changes.",
+  "message": "🎉 النسخة الأولى من NourTube!\n\nجديد: زر «الإبلاغ عن مشكلة» — اكتب المشكلة وأرفق صورة وأرسِلها فتصلني مباشرةً. رسالة ترحيب عند أول فتح، ولغة التطبيق تتبع لغة هاتفك.\n\n🎉 NourTube v1!\n\nNew: “Report a problem” — describe the issue, attach a screenshot, send; it reaches me directly. Welcome message on first open, and the app language follows your phone.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
