@@ -1,6 +1,6 @@
 {
   "min_version_code": 44,
   "kill": false,
-  "message": "🎉 النسخة الأولى من NourTube!\n\nجديد: زر «الإبلاغ عن مشكلة» — اكتب المشكلة وأرفق صورة وأرسِلها فتصلني مباشرةً. رسالة ترحيب عند أول فتح، ولغة التطبيق تتبع لغة هاتفك.\n\n🎉 NourTube v1!\n\nNew: “Report a problem” — describe the issue, attach a screenshot, send; it reaches me directly. Welcome message on first open, and the app language follows your phone.",
+  "message": "🆕 محسّن: حافظ حالات واتساب\n\nاضغط أي حالة لمعاينتها بملء الشاشة (صورة أو فيديو) ثم نزّلها أو شاركها إن أردت. وجديد: تبويب «نص» يحفظ حالات النص — فعّله من الإعدادات، واعرض الحالة، ثم انسخ النص أو شاركه.\n\n🆕 Improved WhatsApp saver\n\nTap any status to preview it full-screen (photo or video), then download or share if you want. New “Text” tab saves text statuses — enable it, view the status, then copy or share the text.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
