@@ -1,6 +1,6 @@
 {
-  "min_version_code": 48,
+  "min_version_code": 49,
   "kill": false,
-  "message": "🆕 تشغيل تلقائي لقائمة التشغيل\n\n• شغّل القائمة كاملة — ينتقل تلقائيًا للعنصر التالي.\n• التالي/السابق، التكرار، والتشغيل العشوائي.\n\n🆕 Queue auto-play\n\n• Play the whole queue — it advances to the next item automatically.\n• Next/previous, repeat (off/all/one) and shuffle in the player.",
+  "message": "🔧 إصلاحات + جديد في حافظ واتساب\n\n• عند فتح فيديو يوتيوب يتوقف بث IPTV في الخلفية — لن يعمل صوتان معًا.\n• زر «إغلاق» في إشعار يوتيوب.\n• حافظ حالات النص أصبح يلتقط حالات النص فقط (وليس من المحادثات).\n• استخراج النص من صورة الحالة (عربي + إنجليزي) — افتح الصورة ثم «استخراج النص».\n\n🔧 Fixes + WhatsApp saver\n\n• Opening YouTube stops IPTV background — no more two at once.\n• “Close” on the YouTube notification.\n• Text capture now only reads status text (not chats).\n• Extract text from a status photo (Arabic + English).",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
