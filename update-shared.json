@@ -1,6 +1,6 @@
 {
-  "min_version_code": 47,
+  "min_version_code": 48,
   "kill": false,
-  "message": "🆕 قائمة التشغيل تشمل الآن كل شيء\n\n• أضِف الأفلام والمسلسلات والقنوات المباشرة إلى «قائمة التشغيل» — زر الإضافة على صفحة المسلسل وبجانب كل قناة.\n\n🆕 Play queue now covers everything\n\n• Add movies, series and live channels to the queue — the button is on the series page and next to each live channel.",
+  "message": "🆕 تشغيل تلقائي لقائمة التشغيل\n\n• شغّل القائمة كاملة — ينتقل تلقائيًا للعنصر التالي.\n• التالي/السابق، التكرار، والتشغيل العشوائي.\n\n🆕 Queue auto-play\n\n• Play the whole queue — it advances to the next item automatically.\n• Next/previous, repeat (off/all/one) and shuffle in the player.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
