@@ -1,6 +1,6 @@
 {
-  "min_version_code": 50,
+  "min_version_code": 51,
   "kill": false,
-  "message": "🆕 جديد\n\n• تصميم مشغّل «Music» بموجة صوتية وأزرار تكرار/تخطٍّ/عشوائي — الإعدادات › «تصميم المشغّل» (التصاميم القديمة باقية).\n• استخراج النص من الصورة أصبح عبر خدمة سحابية أقوى للعربية (يعمل أونلاين؛ ويرجع لوضع دون اتصال تلقائيًا).\n\n🆕 New\n\n• “Music” player skin — waveform + repeat/skip/shuffle. Settings › “Player design” (old designs stay).\n• Extract text now uses a stronger cloud OCR for Arabic (online; offline fallback automatic).",
+  "message": "🆕 تصميم «Music» صار أوضح\n\n• الموجة الصوتية تظهر باستمرار في مشغّل IPTV واليوتيوب (وليس عند اللمس فقط).\n• إشعار التشغيل صار بشكل مشغّل موسيقى: شريط تقدّم مع الوقت المنقضي والمتبقّي وأزرار التحكم.\n\n🆕 “Music” design, now clearer\n\n• The waveform stays on screen in both the IPTV and YouTube players (not just on tap).\n• The playback notification is now a music-player: a progress bar with elapsed/remaining time + controls.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
