@@ -1,6 +1,6 @@
 {
-  "min_version_code": 45,
+  "min_version_code": 46,
   "kill": false,
-  "message": "🆕 تحديثات مهمة\n\n• الشاشة لا تنطفئ أثناء مشاهدة الفيديو (يوتيوب والبث المباشر).\n• أزرار التحكم في شريط الإشعارات: إيقاف/تشغيل، تقديم/تأخير ١٠ ثوانٍ، وإغلاق.\n• زر «التحقق من التحديثات» في الإعدادات.\n\n🆕 Important fixes\n\n• Screen no longer turns off while watching (YouTube & Live TV).\n• Notification controls: pause/resume, ±10s, close.\n• “Check for updates” button in Settings.",
+  "message": "🆕 جديد\n\n• قائمة تشغيل (Queue) للأفلام في البث المباشر — أضِف واعرض من صفحة «قائمة التشغيل».\n• تصاميم متعددة لمشغّل الفيديو — اخترها من الإعدادات › «تصميم المشغّل».\n\n🆕 New\n\n• Play queue for IPTV movies — add items and play them from “Play Queue”.\n• Choosable video-player designs — pick one in Settings › “Player design”.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
