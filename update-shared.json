@@ -1,6 +1,6 @@
 {
-  "min_version_code": 49,
+  "min_version_code": 50,
   "kill": false,
-  "message": "🔧 إصلاحات + جديد في حافظ واتساب\n\n• عند فتح فيديو يوتيوب يتوقف بث IPTV في الخلفية — لن يعمل صوتان معًا.\n• زر «إغلاق» في إشعار يوتيوب.\n• حافظ حالات النص أصبح يلتقط حالات النص فقط (وليس من المحادثات).\n• استخراج النص من صورة الحالة (عربي + إنجليزي) — افتح الصورة ثم «استخراج النص».\n\n🔧 Fixes + WhatsApp saver\n\n• Opening YouTube stops IPTV background — no more two at once.\n• “Close” on the YouTube notification.\n• Text capture now only reads status text (not chats).\n• Extract text from a status photo (Arabic + English).",
+  "message": "🆕 جديد\n\n• تصميم مشغّل «Music» بموجة صوتية وأزرار تكرار/تخطٍّ/عشوائي — الإعدادات › «تصميم المشغّل» (التصاميم القديمة باقية).\n• استخراج النص من الصورة أصبح عبر خدمة سحابية أقوى للعربية (يعمل أونلاين؛ ويرجع لوضع دون اتصال تلقائيًا).\n\n🆕 New\n\n• “Music” player skin — waveform + repeat/skip/shuffle. Settings › “Player design” (old designs stay).\n• Extract text now uses a stronger cloud OCR for Arabic (online; offline fallback automatic).",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
