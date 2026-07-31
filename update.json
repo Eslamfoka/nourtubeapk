@@ -1,6 +1,6 @@
 {
-  "min_version_code": 44,
+  "min_version_code": 45,
   "kill": false,
-  "message": "🆕 محسّن: حافظ حالات واتساب\n\nاضغط أي حالة لمعاينتها بملء الشاشة (صورة أو فيديو) ثم نزّلها أو شاركها إن أردت. وجديد: تبويب «نص» يحفظ حالات النص — فعّله من الإعدادات، واعرض الحالة، ثم انسخ النص أو شاركه.\n\n🆕 Improved WhatsApp saver\n\nTap any status to preview it full-screen (photo or video), then download or share if you want. New “Text” tab saves text statuses — enable it, view the status, then copy or share the text.",
+  "message": "🆕 تحديثات مهمة\n\n• الشاشة لا تنطفئ أثناء مشاهدة الفيديو (يوتيوب والبث المباشر).\n• أزرار التحكم في شريط الإشعارات: إيقاف/تشغيل، تقديم/تأخير ١٠ ثوانٍ، وإغلاق.\n• زر «التحقق من التحديثات» في الإعدادات.\n\n🆕 Important fixes\n\n• Screen no longer turns off while watching (YouTube & Live TV).\n• Notification controls: pause/resume, ±10s, close.\n• “Check for updates” button in Settings.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
