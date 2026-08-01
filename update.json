@@ -1,6 +1,6 @@
 {
-  "min_version_code": 52,
+  "min_version_code": 53,
   "kill": false,
-  "message": "🆕 تصميم مشغّل موحّد (تجريبي في نسختك)\n\n• شكل مشغّل واحد: موجة صوتية + شريط تقدّم قابل للسحب مع الوقت المنقضي/المتبقّي + صف أزرار (تكرار · ⏮ · تشغيل · ⏭ · عشوائي) في IPTV واليوتيوب؛ وشريط تقدّم في المشغّل المصغّر.\n• اختر «Music» من الإعدادات › «تصميم المشغّل».\n\n🆕 Unified player design (testing in your build)\n\n• One NourTube player look across IPTV & YouTube + mini-player. Pick “Music” in Settings › Player design.",
+  "message": "🔧 تحسين شكل المشغّل الموحّد\n\n• أزرار التحكم صارت مجموعة واحدة متراصّة في المنتصف (بدل تناثرها على العرض في الوضع الأفقي).\n\n🔧 Unified player polish\n\n• Controls are now one compact centered group (no longer spread across the screen in landscape).",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
