@@ -1,6 +1,6 @@
 {
-  "min_version_code": 57,
+  "min_version_code": 58,
   "kill": false,
-  "message": "✨ تحديث\n\n• إشعار يخبرك بنزول تحديث جديد، مثل إشعار الفيديو الجديد.\n• شاشة ترحيب كاملة تشرح كل مزايا التطبيق.\n• إصلاحات ومراجعة للكود.\n\n✨ Update\n\n• A notification when a new version is out, like the new-video one.\n• A complete welcome tour of every feature.\n• Bug pass and code review fixes.",
+  "message": "⚽ نتائج المباريات ومواعيدها\n\n• تبويب «LIVE EVENT» في نور تي في أصبح شاشة مباريات كاملة: مباشر / اليوم / الأيام القادمة.\n• اختر بطولاتك وفرقك — الأهلي والزمالك ومنتخب مصر والدوريات الأوروبية ودوري الأبطال.\n• اضغط على أي مباراة ليخبرك التطبيق على أي قناة من قنواتك تُعرض.\n• إشعار بالأهداف لفرقك التي تتابعها.\n• النتائج المباشرة تحتاج مفتاح TheSportsDB — أضفه في الإعدادات ▸ Live scores. المواعيد والقنوات تعمل بدونه.\n\n⚽ Live scores and match schedule\n\n• Nour TV's LIVE EVENT tab is now a full matches screen: Live / Today / Upcoming.\n• Follow your competitions and teams — Al Ahly, Zamalek, Egypt, the European leagues, Champions League and AFCON.\n• Tap a match and it tells you which of YOUR channels is showing it.\n• Goal notifications for the teams you follow.\n• Live scores need a TheSportsDB key (Settings ▸ Live scores). The schedule and the channel picker work without it.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
