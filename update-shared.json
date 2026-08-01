@@ -1,6 +1,6 @@
 {
-  "min_version_code": 51,
+  "min_version_code": 57,
   "kill": false,
-  "message": "🆕 تصميم «Music» صار أوضح\n\n• الموجة الصوتية تظهر باستمرار في مشغّل IPTV واليوتيوب (وليس عند اللمس فقط).\n• إشعار التشغيل صار بشكل مشغّل موسيقى: شريط تقدّم مع الوقت المنقضي والمتبقّي وأزرار التحكم.\n\n🆕 “Music” design, now clearer\n\n• The waveform stays on screen in both the IPTV and YouTube players (not just on tap).\n• The playback notification is now a music-player: a progress bar with elapsed/remaining time + controls.",
+  "message": "🎉 تحديث كبير لنور تيوب\n\n• مشغّل جديد بالكامل: صف تحكم واحد (تكرار · ⏮ · تشغيل · ⏭ · عشوائي) في كل المشغّلات وفي الإشعار، مع شريط تقدّم رفيع.\n• اضغط على الشاشة لإظهار الأزرار أو إخفائها، وتختفي وحدها بعد ١٠ ثوانٍ.\n• قفل الشاشة في كل المشغّلات: يوتيوب، تيك توك، المتصفّح، وحالات واتساب.\n• الفيديو يُكمل من حيث توقفت بعد إغلاق التطبيق، مع زر «البدء من الأول».\n• المتصفّح: زر «+» يفتح تبويبًا جديدًا فارغًا، وعند فتح التطبيق يبدأ بتبويب واحد.\n• إشعار عند نزول تحديث جديد.\n\n🎉 A big NourTube update\n\n• A brand-new player: one control row (repeat · ⏮ · play · ⏭ · shuffle) in every player and in the notification, with a slim progress bar.\n• Tap the screen to show or hide the controls; they hide themselves after 10 seconds.\n• Screen lock in every player: YouTube, TikTok, Browser and WhatsApp statuses.\n• Videos resume where you stopped after closing the app, with a “Start over” button.\n• Browser: “+” opens a blank new tab, and reopening the app starts on one tab.\n• A notification when a new version is out.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Shared-arm64-v8a.apk"
 }
