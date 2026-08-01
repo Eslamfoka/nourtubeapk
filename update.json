@@ -1,6 +1,6 @@
 {
-  "min_version_code": 55,
+  "min_version_code": 56,
   "kill": false,
-  "message": "🎯 تحسينات المشغل\n\n• شريط تقدّم رفيع بنقطة صغيرة — اختفى الخط الأصفر، وأزرار أصغر وأقرب لبعضها.\n• زر الإغلاق ✕ عاد إلى الإشعار (مكان العشوائي).\n• قفل الشاشة في كل المشغلات: يوتيوب، تيك توك، المتصفّح، وحالات واتساب.\n• إصلاح مهم: الفيديو يُكمِل من مكان التوقف بعد إغلاق التطبيق، ولا يبدأ من البداية — مع زر «البدء من الأول».\n\n🎯 Player fixes\n\n• Thin progress line with a small dot — the yellow line is gone — and a smaller, tighter button row.\n• Close ✕ is back in the notification (it took shuffle's slot).\n• Screen lock on every player: YouTube, TikTok, Browser, WhatsApp statuses.\n• Big fix: a video you closed the app on now RESUMES where you stopped instead of restarting — with a “Start over” button when it does.",
+  "message": "👁️ شريط التحكم يختفي الآن\n\n• اضغط على الشاشة لإظهار الأزرار، واضغط مرة أخرى لإخفائها.\n• تختفي تلقائيًا بعد 10 ثوانٍ من دون لمس.\n• الفيديو نظيف بالكامل أثناء المشاهدة.\n\n👁️ The control bar hides now\n\n• Tap the screen to show the controls, tap again to hide them.\n• They hide themselves after 10 seconds with no touch.\n• Nothing sits over your video while you watch.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
