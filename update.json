@@ -1,6 +1,6 @@
 {
-  "min_version_code": 54,
+  "min_version_code": 55,
   "kill": false,
-  "message": "🎮 أزرار موحّدة لكل المشغلات\n\n• صف التحكم (تكرار · ⏮ · تشغيل/إيقاف · ⏭ · عشوائي) أصبح التصميم الافتراضي في كل المشغلات (IPTV ويوتيوب) وفي الإشعار.\n• تمّ حذف الموجة الصوتية والخط الأصفر على اليسار.\n• أسهم ⏮/⏭ تتنقل في قائمة التشغيل، و«تكرار واحد» يعيد الفيديو الحالي.\n• المتصفّح: زر «+» يفتح تبويبًا جديدًا فارغًا لتصفّح أي موقع، وعند إعادة فتح التطبيق يبدأ بتبويب واحد فقط.\n\n🎮 One control row in every player\n\n• repeat · ⏮ · play/pause · ⏭ · shuffle is now the DEFAULT layout in both players and in the notification.\n• Waveform removed (and the yellow line on the left with it).\n• ⏮/⏭ move through the play queue; repeat-one loops the current video.\n• Browser: “+” opens a blank new tab so you can browse any site, and reopening the app starts on ONE fresh tab.\n• ±10s moved to the centre of the video (tap to show).",
+  "message": "🎯 تحسينات المشغل\n\n• شريط تقدّم رفيع بنقطة صغيرة — اختفى الخط الأصفر، وأزرار أصغر وأقرب لبعضها.\n• زر الإغلاق ✕ عاد إلى الإشعار (مكان العشوائي).\n• قفل الشاشة في كل المشغلات: يوتيوب، تيك توك، المتصفّح، وحالات واتساب.\n• إصلاح مهم: الفيديو يُكمِل من مكان التوقف بعد إغلاق التطبيق، ولا يبدأ من البداية — مع زر «البدء من الأول».\n\n🎯 Player fixes\n\n• Thin progress line with a small dot — the yellow line is gone — and a smaller, tighter button row.\n• Close ✕ is back in the notification (it took shuffle's slot).\n• Screen lock on every player: YouTube, TikTok, Browser, WhatsApp statuses.\n• Big fix: a video you closed the app on now RESUMES where you stopped instead of restarting — with a “Start over” button when it does.",
   "download_url": "https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-arm64-v8a.apk"
 }
