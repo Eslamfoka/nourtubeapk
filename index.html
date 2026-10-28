@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NourTube — كل ما تشاهده في تطبيق واحد</title>
+<meta name="description" content="NourTube: يوتيوب بدون إعلانات، تحميل الفيديوهات من أي موقع، تيك توك وريلز، بث مباشر، حافظ حالات واتساب و VPN مدمج — في تطبيق أندرويد واحد مجاني.">
+<meta name="theme-color" content="#0f0f0f">
+<meta property="og:type" content="website">
+<meta property="og:title" content="NourTube — كل ما تشاهده في تطبيق واحد">
+<meta property="og:description" content="يوتيوب بدون إعلانات، تحميل من أي موقع، بث مباشر، و VPN مدمج. حمّل التطبيق مجانًا.">
+<meta property="og:image" content="https://eslamfoka.github.io/nourtubeapk/assets/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Arabic is the default. Every bilingual string is a pair of spans; html[lang] hides the other one. -->
+
+<header class="nav" id="top">
+  <div class="wrap nav__inner">
+    <a class="brand" href="#top" aria-label="NourTube">
+      <img src="assets/icon-192.png" alt="" width="36" height="36">
+      <span class="brand__name"><b>Nour</b>Tube</span>
+    </a>
+    <nav class="nav__links" aria-label="Sections">
+      <a href="#features"><span data-l="ar">المميزات</span><span data-l="en">Features</span></a>
+      <a href="#tour"><span data-l="ar">جولة</span><span data-l="en">Tour</span></a>
+      <a href="#install"><span data-l="ar">طريقة التثبيت</span><span data-l="en">Install</span></a>
+      <a href="#faq"><span data-l="ar">أسئلة شائعة</span><span data-l="en">FAQ</span></a>
+    </nav>
+    <div class="nav__actions">
+      <button class="lang-toggle" type="button" id="langToggle" aria-label="Switch language">
+        <span data-l="ar">English</span><span data-l="en">العربية</span>
+      </button>
+      <a class="btn btn--small js-download" href="https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Plus-arm64-v8a.apk">
+        <span data-l="ar">تحميل</span><span data-l="en">Download</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main>
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="hero__glow" aria-hidden="true"></div>
+  <div class="wrap hero__grid">
+    <div class="hero__copy reveal">
+      <p class="eyebrow">
+        <span class="dot"></span>
+        <span data-l="ar">تطبيق أندرويد مجاني</span><span data-l="en">Free Android app</span>
+        · <span class="js-version">v1.15.5</span>
+      </p>
+      <h1>
+        <span data-l="ar">كل ما تشاهده<br><em>في تطبيق واحد.</em></span>
+        <span data-l="en">Everything you watch,<br><em>in one app.</em></span>
+      </h1>
+      <p class="lead">
+        <span data-l="ar">يوتيوب بدون إعلانات، تحميل الفيديوهات من أي موقع، تيك توك وريلز، بث مباشر وأفلام ومسلسلات، حافظ حالات واتساب و VPN مدمج — بدون حسابات وبدون تعقيد.</span>
+        <span data-l="en">YouTube with no ads, video downloads from almost any site, TikTok &amp; Reels, live TV, movies and series, a WhatsApp status saver and a built-in VPN — no accounts, no clutter.</span>
+      </p>
+      <div class="cta-row">
+        <a class="btn btn--primary btn--big js-download" href="https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Plus-arm64-v8a.apk">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M4 19h16" /></svg>
+          <span>
+            <span data-l="ar">حمّل التطبيق الآن</span><span data-l="en">Download now</span>
+            <small class="js-meta"><span data-l="ar">ملف APK · مجاني</span><span data-l="en">APK file · Free</span></small>
+          </span>
+        </a>
+        <a class="btn btn--ghost btn--big" href="#features">
+          <span data-l="ar">اكتشف المميزات</span><span data-l="en">See features</span>
+        </a>
+      </div>
+      <ul class="hero__ticks">
+        <li><span data-l="ar">بدون إعلانات</span><span data-l="en">No ads</span></li>
+        <li><span data-l="ar">بدون تسجيل دخول</span><span data-l="en">No sign-in</span></li>
+        <li><span data-l="ar">تحديثات تلقائية</span><span data-l="en">Auto-updates</span></li>
+        <li><span data-l="ar">عربي وإنجليزي</span><span data-l="en">Arabic &amp; English</span></li>
+      </ul>
+    </div>
+
+    <div class="hero__visual reveal" aria-hidden="true">
+      <div class="phone phone--tilt">
+        <div class="phone__screen">
+          <div class="ui-top">
+            <span class="ui-logo"><b>Nour</b>Tube</span>
+            <span class="ui-icons"><i></i><i></i></span>
+          </div>
+          <div class="ui-chips"><span class="on">All</span><span>Music</span><span>Football</span><span>Kids</span></div>
+          <div class="ui-card"><div class="thumb t1"><span class="dur">12:04</span></div><div class="meta"><i class="av a1"></i><div><b></b><s></s></div></div></div>
+          <div class="ui-card"><div class="thumb t2"><span class="dur">8:41</span></div><div class="meta"><i class="av a2"></i><div><b></b><s></s></div></div></div>
+          <div class="ui-card"><div class="thumb t3"><span class="dur">LIVE</span></div><div class="meta"><i class="av a3"></i><div><b></b><s></s></div></div></div>
+          <div class="ui-bottom"><i class="on"></i><i></i><i></i><i></i><i></i></div>
+        </div>
+      </div>
+      <div class="float-card fc1">
+        <span class="fc__icon">⬇</span>
+        <div><b>1080p · MP4</b><small>Saved to gallery</small></div>
+      </div>
+      <div class="float-card fc2">
+        <span class="fc__icon fc__icon--green">●</span>
+        <div><b>0 ads</b><small>since you installed</small></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ STRIP ============ -->
+<section class="strip">
+  <div class="wrap strip__grid">
+    <div><b>0</b><span data-l="ar">إعلانات</span><span data-l="en">ads</span></div>
+    <div><b>8+</b><span data-l="ar">خدمات في تطبيق واحد</span><span data-l="en">services in one app</span></div>
+    <div><b>1080p</b><span data-l="ar">تحميل بأعلى جودة</span><span data-l="en">downloads in full quality</span></div>
+    <div><b>2</b><span data-l="ar">لغتان: عربي وإنجليزي</span><span data-l="en">languages: Arabic &amp; English</span></div>
+  </div>
+</section>
+
+<!-- ============ FEATURES ============ -->
+<section class="section" id="features">
+  <div class="wrap">
+    <header class="section__head reveal">
+      <p class="kicker"><span data-l="ar">المميزات</span><span data-l="en">Features</span></p>
+      <h2><span data-l="ar">كل شيء تحتاجه، بدون ما تنقل بين عشر تطبيقات</span><span data-l="en">Everything you need, without juggling ten apps</span></h2>
+    </header>
+
+    <div class="feature-grid">
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><rect x="2.5" y="5" width="19" height="14" rx="4"/><path d="m10 9 5 3-5 3z" class="fill"/></svg></div>
+        <h3><span data-l="ar">يوتيوب بدون إعلانات</span><span data-l="en">YouTube, no ads ever</span></h3>
+        <p><span data-l="ar">شاهد أي فيديو بلا إعلانات وبدون تسجيل دخول. تشغيل في الخلفية، نافذة عائمة، ترجمة، وإشعار فور نشر أي قناة تتابعها.</span><span data-l="en">Any video, zero ads, no sign-in. Background play, floating pop-up, subtitles, and a notification the moment a channel you follow posts.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><path d="M12 3v12m0 0-5-5m5 5 5-5M4 19h16"/></svg></div>
+        <h3><span data-l="ar">تحميل الفيديو والصوت</span><span data-l="en">Download video &amp; audio</span></h3>
+        <p><span data-l="ar">اختر الجودة اللي تريدها، والملف يُحفظ MP4 يشتغل على أي مشغّل. كل التنزيلات في مدير واحد: تقدّم، إيقاف، واستكمال.</span><span data-l="en">Pick the quality you want; files save as MP4 that play anywhere. Every download lives in one manager: progress, pause, resume.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg></div>
+        <h3><span data-l="ar">متصفّح مع زر تحميل</span><span data-l="en">A browser with a download button</span></h3>
+        <p><span data-l="ar">متصفّح كامل بتبويبات وسجل. في أغلب المواقع ضغطة واحدة تحفظ الفيديو اللي بتشوفه في المعرض.</span><span data-l="en">A full browser with tabs and history. On almost any site, one tap saves the video you're watching to your gallery.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><path d="M14 3v11.5a3.5 3.5 0 1 1-3.5-3.5"/><path d="M14 3c.5 2.8 2.4 4.6 5 5"/></svg></div>
+        <h3><span data-l="ar">تيك توك وريلز وأي رابط</span><span data-l="en">TikTok, Reels &amp; any link</span></h3>
+        <p><span data-l="ar">تصفّح تيك توك داخل التطبيق، والصق أي رابط عام من فيسبوك أو إنستجرام أو X أو تيك توك لتشاهده أو تحفظه.</span><span data-l="en">Scroll TikTok in the app, and paste any public Facebook, Instagram, X or TikTok link to watch it or save it.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><rect x="3" y="6" width="18" height="13" rx="2.5"/><path d="m8 2 4 4 4-4"/></svg></div>
+        <h3><span data-l="ar">بث مباشر وأفلام ومسلسلات</span><span data-l="en">Live TV, movies &amp; series</span></h3>
+        <p><span data-l="ar">قنوات مباشرة مع دليل البرامج، إعادة المشاهدة، وشاشة متعددة لأربع قنوات معًا. يعمل باشتراك IPTV الخاص بك.</span><span data-l="en">Live channels with a TV guide, catch-up and multi-screen for four channels at once. Works with your own IPTV subscription.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 19z"/><path d="M9 10.5c.5 1.8 2.2 3.5 4 4l1.3-1.2 2 .9-.4 1.6c-3.6.4-7.9-3.9-7.5-7.5l1.6-.4.9 2z" class="fill"/></svg></div>
+        <h3><span data-l="ar">حافظ حالات واتساب</span><span data-l="en">WhatsApp status saver</span></h3>
+        <p><span data-l="ar">احفظ الحالات اللي شاهدتها، وصور وفيديوهات محادثاتك، في المعرض بضغطة واحدة.</span><span data-l="en">Save the statuses you've viewed, and photos and videos from your chats, to your gallery in one tap.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><path d="M12 3 4.5 6v5.5c0 4.6 3.2 8.4 7.5 9.5 4.3-1.1 7.5-4.9 7.5-9.5V6z"/><path d="m9 12 2 2 4-4"/></svg></div>
+        <h3><span data-l="ar">VPN مدمج</span><span data-l="en">Built-in VPN</span></h3>
+        <p><span data-l="ar">تصفّح بخصوصية عبر VPN موجود داخل التطبيق نفسه، بدون تطبيق إضافي.</span><span data-l="en">Browse privately with a VPN built right into the app — no extra app needed.</span></p>
+      </article>
+      <article class="feature reveal">
+        <div class="feature__icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-3.8 3.6-6 7-6s6.2 2.2 7 6"/><path d="M17.5 3.5l1 1.5 1.7.4-1.2 1.3.2 1.8-1.7-.8-1.6.8.2-1.8-1.2-1.3 1.7-.4z" class="fill"/></svg></div>
+        <h3><span data-l="ar">وضع الأطفال</span><span data-l="en">Kids mode</span></h3>
+        <p><span data-l="ar">قفل برقم سري يخفي المتصفّح والبث والإعدادات، ويعرض قنوات أطفال عربية مختارة بعناية.</span><span data-l="en">A PIN lock that hides the browser, live TV and settings, and shows a hand-picked list of Arabic kids' channels.</span></p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TOUR ============ -->
+<section class="section section--alt" id="tour">
+  <div class="wrap">
+    <header class="section__head reveal">
+      <p class="kicker"><span data-l="ar">جولة داخل التطبيق</span><span data-l="en">A look inside</span></p>
+      <h2><span data-l="ar">مصمَّم ليكون سريعًا وبسيطًا</span><span data-l="en">Built to be fast and simple</span></h2>
+    </header>
+
+    <!-- Player -->
+    <div class="tour reveal">
+      <div class="tour__copy">
+        <span class="tour__num">01</span>
+        <h3><span data-l="ar">مشغّل واحد لكل شيء</span><span data-l="en">One player for everything</span></h3>
+        <p><span data-l="ar">نفس المشغّل في يوتيوب والبث المباشر والأفلام: تكرار، السابق، تشغيل، التالي، عشوائي. ويكمل التشغيل والشاشة مقفولة أو في نافذة عائمة فوق أي تطبيق.</span><span data-l="en">The same player in YouTube, live TV and movies: repeat, previous, play, next, shuffle. It keeps playing with the screen off, or in a floating window over any app.</span></p>
+        <ul class="checks">
+          <li><span data-l="ar">تشغيل في الخلفية مع التحكم من الإشعار</span><span data-l="en">Background play, controlled from the notification</span></li>
+          <li><span data-l="ar">نافذة عائمة (صورة داخل صورة)</span><span data-l="en">Picture-in-picture pop-up</span></li>
+          <li><span data-l="ar">ترجمة، لقطات شاشة، وقص المقاطع</span><span data-l="en">Subtitles, screenshots and clip trimming</span></li>
+        </ul>
+      </div>
+      <div class="tour__visual" aria-hidden="true">
+        <div class="phone">
+          <div class="phone__screen screen-player">
+            <div class="player-video"><div class="player-play"></div><div class="player-bar"><i style="width:42%"></i></div></div>
+            <div class="player-title"><b></b><s></s></div>
+            <div class="player-controls">
+              <svg viewBox="0 0 24 24"><path d="M4 9h13l-3-3M20 15H7l3 3"/></svg>
+              <svg viewBox="0 0 24 24"><path d="M18 6 9 12l9 6zM6 6v12"/></svg>
+              <span class="pc-main"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z" class="fill"/></svg></span>
+              <svg viewBox="0 0 24 24"><path d="m6 6 9 6-9 6zM18 6v12"/></svg>
+              <svg viewBox="0 0 24 24"><path d="M3 7h4l10 10h4M3 17h4l3-3m4-4 3-3h4m-2-2 2 2-2 2m0 6 2 2-2 2"/></svg>
+            </div>
+            <div class="ui-list"><i></i><i></i><i></i></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Live TV -->
+    <div class="tour tour--flip reveal">
+      <div class="tour__copy">
+        <span class="tour__num">02</span>
+        <h3><span data-l="ar">البث المباشر بشكل سينمائي</span><span data-l="en">Live TV, cinema-style</span></h3>
+        <p><span data-l="ar">قنوات مقسّمة حسب الفئة، أفلام ومسلسلات كاملة، دليل البرامج، وإعادة مشاهدة ما فاتك. ويصلك إشعار عند نزول حلقة جديدة من مسلسل تتابعه أو قرب بدء مباراة.</span><span data-l="en">Channels by category, full movies and series, a programme guide, and catch-up for what you missed. Get notified when a new episode drops or a match is about to start.</span></p>
+        <ul class="checks">
+          <li><span data-l="ar">شاشة متعددة: أربع قنوات في نفس الوقت</span><span data-l="en">Multi-screen: four channels at once</span></li>
+          <li><span data-l="ar">تكمل الحلقة من حيث توقفت</span><span data-l="en">Resume episodes where you left off</span></li>
+          <li><span data-l="ar">يعمل باشتراك IPTV الخاص بك</span><span data-l="en">Works with your own IPTV subscription</span></li>
+        </ul>
+      </div>
+      <div class="tour__visual" aria-hidden="true">
+        <div class="phone">
+          <div class="phone__screen screen-tv">
+            <div class="ui-top"><span class="ui-logo">Live TV</span><span class="ui-icons"><i></i></span></div>
+            <div class="ui-chips"><span class="on">Sports</span><span>News</span><span>Movies</span></div>
+            <div class="tv-hero"><span class="live">● LIVE</span></div>
+            <div class="tv-grid"><i class="c1"></i><i class="c2"></i><i class="c3"></i><i class="c4"></i><i class="c5"></i><i class="c6"></i></div>
+            <div class="ui-bottom"><i></i><i></i><i></i><i class="on"></i><i></i></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Downloads -->
+    <div class="tour reveal">
+      <div class="tour__copy">
+        <span class="tour__num">03</span>
+        <h3><span data-l="ar">كل تنزيلاتك في مكان واحد</span><span data-l="en">All your downloads in one place</span></h3>
+        <p><span data-l="ar">من يوتيوب، من المتصفّح، من روابط فيسبوك وتيك توك، أو من البث — كل شيء يظهر في مدير تنزيلات واحد، والملفات تُحفظ MP4 تشتغل على أي جهاز.</span><span data-l="en">From YouTube, the browser, Facebook and TikTok links, or live TV — it all lands in one download manager, saved as MP4 that plays on any device.</span></p>
+        <ul class="checks">
+          <li><span data-l="ar">إيقاف واستكمال في أي وقت</span><span data-l="en">Pause and resume any time</span></li>
+          <li><span data-l="ar">خيار التحميل على الواي فاي فقط</span><span data-l="en">Optional Wi-Fi-only downloads</span></li>
+          <li><span data-l="ar">حفظ مباشر في معرض الصور</span><span data-l="en">Saved straight to your gallery</span></li>
+        </ul>
+      </div>
+      <div class="tour__visual" aria-hidden="true">
+        <div class="phone">
+          <div class="phone__screen screen-dl">
+            <div class="ui-top"><span class="ui-logo">Downloads</span><span class="ui-icons"><i></i></span></div>
+            <div class="dl-row"><i class="thumb t1"></i><div><b></b><span class="bar"><i style="width:100%"></i></span><small>MP4 · 1080p · ✓</small></div></div>
+            <div class="dl-row"><i class="thumb t2"></i><div><b></b><span class="bar"><i style="width:64%"></i></span><small>64% · 3.2 MB/s</small></div></div>
+            <div class="dl-row"><i class="thumb t3"></i><div><b></b><span class="bar"><i style="width:28%"></i></span><small>28% · 2.7 MB/s</small></div></div>
+            <div class="dl-row"><i class="thumb t4"></i><div><b></b><span class="bar"><i style="width:100%"></i></span><small>M4A · Audio · ✓</small></div></div>
+            <div class="ui-bottom"><i></i><i></i><i></i><i></i><i class="on"></i></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MORE ============ -->
+<section class="section" id="more">
+  <div class="wrap">
+    <header class="section__head reveal">
+      <p class="kicker"><span data-l="ar">وأكثر</span><span data-l="en">And more</span></p>
+      <h2><span data-l="ar">تفاصيل صغيرة تفرق كثير</span><span data-l="en">Small details that matter</span></h2>
+    </header>
+    <div class="mini-grid">
+      <div class="mini reveal"><b>🔔</b><h4><span data-l="ar">إشعارات الاشتراكات</span><span data-l="en">Subscription alerts</span></h4><p><span data-l="ar">فيديو جديد من قناة تتابعها؟ يصلك إشعار فورًا.</span><span data-l="en">A new upload from a channel you follow? You'll know.</span></p></div>
+      <div class="mini reveal"><b>📲</b><h4><span data-l="ar">مشاركة بدون إنترنت</span><span data-l="en">Share without internet</span></h4><p><span data-l="ar">انقل الملفات لصديقك عبر كود QR وشبكة الواي فاي.</span><span data-l="en">Send files to a friend through a QR code and Wi-Fi.</span></p></div>
+      <div class="mini reveal"><b>🔄</b><h4><span data-l="ar">تحديثات تلقائية</span><span data-l="en">Automatic updates</span></h4><p><span data-l="ar">كل تحديث جديد يوصلك داخل التطبيق ويتثبت بضغطة.</span><span data-l="en">Every new version arrives inside the app and installs in a tap.</span></p></div>
+      <div class="mini reveal"><b>🌙</b><h4><span data-l="ar">فاتح وداكن</span><span data-l="en">Light &amp; dark</span></h4><p><span data-l="ar">اختر المظهر وشكل الشريط السفلي ولون المشغّل.</span><span data-l="en">Choose the theme, the bottom bar style and the player colour.</span></p></div>
+      <div class="mini reveal"><b>📶</b><h4><span data-l="ar">توفير البيانات</span><span data-l="en">Data saver</span></h4><p><span data-l="ar">حدّد الجودة على بيانات الهاتف ووفّر باقتك.</span><span data-l="en">Cap quality on mobile data and save your plan.</span></p></div>
+      <div class="mini reveal"><b>🔤</b><h4><span data-l="ar">عربي بالكامل</span><span data-l="en">Fully Arabic</span></h4><p><span data-l="ar">واجهة عربية من اليمين لليسار، أو إنجليزي لو تحب.</span><span data-l="en">A right-to-left Arabic interface, or English if you prefer.</span></p></div>
+      <div class="mini reveal"><b>📱</b><h4><span data-l="ar">يعمل على هواوي</span><span data-l="en">Works on Huawei</span></h4><p><span data-l="ar">لا يحتاج خدمات جوجل، فيعمل على هواوي وهونر.</span><span data-l="en">No Google services needed, so it runs on Huawei and Honor.</span></p></div>
+      <div class="mini reveal"><b>🙈</b><h4><span data-l="ar">بدون حساب</span><span data-l="en">No account</span></h4><p><span data-l="ar">لا تسجيل ولا بريد إلكتروني. افتح وشاهد.</span><span data-l="en">No sign-up, no email. Open it and watch.</span></p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ INSTALL ============ -->
+<section class="section section--alt" id="install">
+  <div class="wrap">
+    <header class="section__head reveal">
+      <p class="kicker"><span data-l="ar">طريقة التثبيت</span><span data-l="en">How to install</span></p>
+      <h2><span data-l="ar">ثلاث خطوات وتبدأ</span><span data-l="en">Three steps and you're in</span></h2>
+    </header>
+    <div class="install">
+      <ol class="steps">
+        <li class="reveal">
+          <span class="step__n">1</span>
+          <div><h4><span data-l="ar">حمّل الملف</span><span data-l="en">Download the file</span></h4>
+          <p><span data-l="ar">اضغط زر التحميل من موبايلك، أو امسح الكود بالكاميرا.</span><span data-l="en">Tap the download button on your phone, or scan the code with your camera.</span></p></div>
+        </li>
+        <li class="reveal">
+          <span class="step__n">2</span>
+          <div><h4><span data-l="ar">اسمح بالتثبيت</span><span data-l="en">Allow the install</span></h4>
+          <p><span data-l="ar">افتح الملف. لو ظهرت رسالة، فعّل «السماح من هذا المصدر» ثم ارجع.</span><span data-l="en">Open the file. If asked, turn on "Allow from this source", then go back.</span></p></div>
+        </li>
+        <li class="reveal">
+          <span class="step__n">3</span>
+          <div><h4><span data-l="ar">ثبّت واستمتع</span><span data-l="en">Install and enjoy</span></h4>
+          <p><span data-l="ar">اضغط «تثبيت». بعد كده التحديثات توصلك تلقائيًا داخل التطبيق.</span><span data-l="en">Tap "Install". From then on, updates reach you automatically inside the app.</span></p></div>
+        </li>
+      </ol>
+      <div class="qr-card reveal">
+        <img src="assets/qr-download.svg" alt="QR code to download NourTube" width="200" height="200">
+        <p><span data-l="ar">امسح الكود بكاميرا موبايلك للتحميل مباشرة</span><span data-l="en">Scan with your phone camera to download</span></p>
+        <small><span data-l="ar">أندرويد 8.0 أو أحدث · 64-بت</span><span data-l="en">Android 8.0 or newer · 64-bit</span></small>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section" id="faq">
+  <div class="wrap wrap--narrow">
+    <header class="section__head reveal">
+      <p class="kicker"><span data-l="ar">أسئلة شائعة</span><span data-l="en">FAQ</span></p>
+      <h2><span data-l="ar">عندك سؤال؟</span><span data-l="en">Got a question?</span></h2>
+    </header>
+    <div class="faq">
+      <details class="reveal"><summary><span data-l="ar">هل التطبيق مجاني؟</span><span data-l="en">Is the app free?</span></summary>
+        <p><span data-l="ar">نعم، مجاني بالكامل وبدون إعلانات.</span><span data-l="en">Yes — completely free, with no ads.</span></p></details>
+      <details class="reveal"><summary><span data-l="ar">ليه مش موجود على جوجل بلاي؟</span><span data-l="en">Why isn't it on Google Play?</span></summary>
+        <p><span data-l="ar">التطبيق يُوزَّع مباشرة من هنا كملف APK. وهذا ما يجعله يعمل أيضًا على أجهزة هواوي التي لا تحتوي على جوجل بلاي، والتحديثات توصلك من داخل التطبيق.</span><span data-l="en">It is distributed directly from here as an APK. That is also why it works on Huawei phones without Google Play, and updates arrive from inside the app.</span></p></details>
+      <details class="reveal"><summary><span data-l="ar">هل هو آمن؟</span><span data-l="en">Is it safe?</span></summary>
+        <p><span data-l="ar">نعم. كل إصدار موقَّع بنفس التوقيع، فلا يمكن لأي ملف آخر أن يحل محله. حمّله دائمًا من هذا الموقع فقط.</span><span data-l="en">Yes. Every version is signed with the same key, so no other file can replace it. Always download it from this site only.</span></p></details>
+      <details class="reveal"><summary><span data-l="ar">كيف أحصل على التحديثات؟</span><span data-l="en">How do I get updates?</span></summary>
+        <p><span data-l="ar">تلقائيًا. عند فتح التطبيق يتحقق من وجود إصدار جديد ويعرض عليك تثبيته بضغطة واحدة.</span><span data-l="en">Automatically. When you open the app it checks for a new version and offers to install it in one tap.</span></p></details>
+      <details class="reveal"><summary><span data-l="ar">هل البث المباشر مجاني؟</span><span data-l="en">Is live TV included?</span></summary>
+        <p><span data-l="ar">قسم البث المباشر يعمل باشتراك IPTV الخاص بك: تسجّل الدخول ببياناته وتظهر لك القنوات والأفلام والمسلسلات.</span><span data-l="en">The live TV section works with your own IPTV subscription: sign in with its details and your channels, movies and series appear.</span></p></details>
+      <details class="reveal"><summary><span data-l="ar">ما الأجهزة المدعومة؟</span><span data-l="en">Which phones are supported?</span></summary>
+        <p><span data-l="ar">أي موبايل أندرويد 8.0 أو أحدث بمعالج 64-بت — وهذا يشمل تقريبًا كل الموبايلات الحديثة.</span><span data-l="en">Any Android 8.0+ phone with a 64-bit processor — which covers almost every modern phone.</span></p></details>
+      <details class="reveal"><summary><span data-l="ar">هل أحتاج حساب جوجل؟</span><span data-l="en">Do I need a Google account?</span></summary>
+        <p><span data-l="ar">لا. لا تسجيل دخول ولا حساب. اشتراكاتك في القنوات تُحفظ على جهازك.</span><span data-l="en">No. No sign-in, no account. Your channel subscriptions are kept on your phone.</span></p></details>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FINAL CTA ============ -->
+<section class="final">
+  <div class="wrap final__inner reveal">
+    <img src="assets/icon-192.png" alt="" width="88" height="88">
+    <h2><span data-l="ar">جاهز تبدأ؟</span><span data-l="en">Ready to start?</span></h2>
+    <p><span data-l="ar">حمّل NourTube مجانًا وشارك الرابط مع أصحابك.</span><span data-l="en">Get NourTube free, and share the link with your friends.</span></p>
+    <div class="cta-row cta-row--center">
+      <a class="btn btn--light btn--big js-download" href="https://github.com/Eslamfoka/nourtubeapk/releases/latest/download/NourTubeV1-Plus-arm64-v8a.apk">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M4 19h16" /></svg>
+        <span><span data-l="ar">حمّل التطبيق</span><span data-l="en">Download the app</span>
+        <small class="js-meta"><span data-l="ar">ملف APK · مجاني</span><span data-l="en">APK file · Free</span></small></span>
+      </a>
+      <button class="btn btn--outline-light btn--big" type="button" id="shareBtn">
+        <span data-l="ar">شارك الموقع</span><span data-l="en">Share this site</span>
+      </button>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap footer__inner">
+    <a class="brand" href="#top"><img src="assets/icon-192.png" alt="" width="28" height="28"><span class="brand__name"><b>Nour</b>Tube</span></a>
+    <p><span data-l="ar">© <span class="js-year">2026</span> NourTube. جميع الحقوق محفوظة.</span><span data-l="en">© <span class="js-year">2026</span> NourTube. All rights reserved.</span></p>
+    <p class="footer__note"><span data-l="ar">NourTube تطبيق مستقل وغير تابع لـ YouTube أو Google أو TikTok أو Meta أو WhatsApp. جميع العلامات التجارية مملوكة لأصحابها.</span><span data-l="en">NourTube is independent and not affiliated with YouTube, Google, TikTok, Meta or WhatsApp. All trademarks belong to their owners.</span></p>
+  </div>
+</footer>
+
+<script src="main.js" defer></script>
+</body>
+</html>
